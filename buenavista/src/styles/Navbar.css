@@ -1,0 +1,22 @@
+.header{
+    background-color:rgb(8, 8, 54);
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    padding:5px;
+    font-size:60px;
+}
+
+.header nav{
+    display: inline-block;
+    padding:5px;   
+}
+
+.link{
+    text-decoration:none;
+    border-radius: 2px solid white;
+    cursor: pointer;
+}
+.link:hover{
+    background-color:rgb(238, 24, 24);
+    color:white;
+}
